@@ -1,0 +1,2 @@
+# stl
+SillyTavern-Launcher
